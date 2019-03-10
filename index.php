@@ -2,6 +2,6 @@
 
 echo "Ola mundo! 654321";
 
-echo "Ola Udimy!";
+echo "Ola Udemy!";
 
 ?>
